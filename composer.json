@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Aayush",
+        "email": "20007386@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
